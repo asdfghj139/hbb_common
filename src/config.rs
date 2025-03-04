@@ -103,7 +103,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["xiaochen.cyou"];
-pub const RS_PUB_KEY: &str = "1DiSxc677x+31f8BZWtPCFfvQZsnkq0XD0LWYkpQ2rI=";
+pub const RS_PUB_KEY: &str = "1d0gKKCC0ri6R4ufBfX6sKBgoL0eB2AeAwh6cmnsEYs=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
