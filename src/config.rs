@@ -102,8 +102,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["xiaochen.cyou"];
-pub const RS_PUB_KEY: &str = "1d0gKKCC0ri6R4ufBfX6sKBgoL0eB2AeAwh6cmnsEYs=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["221.208.250.35"];
+pub const RS_PUB_KEY: &str = "kBQu4C0yEZEWLG9Xxr57FONi7snnlDSI24KfYgIPbPA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
